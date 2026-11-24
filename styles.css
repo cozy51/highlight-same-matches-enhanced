@@ -1,0 +1,13 @@
+.hsm-enhanced-surface::highlight(hsm-enhanced-match),
+.hsm-enhanced-surface *::highlight(hsm-enhanced-match) {
+  background-color: var(--hsm-enhanced-bg);
+  color: var(--hsm-enhanced-fg);
+}
+
+.hsm-enhanced-surface::highlight(hsm-enhanced-selected),
+.hsm-enhanced-surface *::highlight(hsm-enhanced-selected) {
+  background-color: var(--hsm-enhanced-bg);
+  color: var(--hsm-enhanced-fg);
+  text-decoration: underline solid currentColor;
+}
+

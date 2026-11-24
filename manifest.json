@@ -1,0 +1,9 @@
+{
+  "id": "highlight-same-matches-enhanced",
+  "name": "Highlight Same Matches Enhanced",
+  "version": "1.0.0",
+  "minAppVersion": "1.8.0",
+  "description": "ノート内の選択文字列と同じ文字列を、本文とMarkdownの表で強調表示します。",
+  "author": "Cozy",
+  "isDesktopOnly": false
+}
